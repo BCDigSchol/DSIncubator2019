@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: BCDS Incubator 2019
-email: bcdigschol-gggroup@bc.edu
+email: bcdigschol-ggroup@bc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The Spring 2019 Digital Scholarship Incubator
 baseurl: "/DSIncubator2019" # the subpath of your site, e.g. /blog

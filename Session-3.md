@@ -23,9 +23,9 @@ Participants will:
 
 The workshop will consist of four hands-on exercises:
 
-- [Exercise 1](exercise-1.md): Critique an existing Omeka project
-- [Exercise 2](exercise-2.md): Describe sample exhibit items
-- [Exercise 3](exercise-3.md): Discuss collaborative roles of Omeka projects
+- [Exercise 1](/_materials/3_Collections/exercise-1.md): Critique an existing Omeka project
+- [Exercise 2](/_materials/3_Collections/exercise-2.md): Describe sample exhibit items
+- [Exercise 3](/_materials/3_Collections/exercise-3.md): Discuss collaborative roles of Omeka projects
 
 ### Resources
 

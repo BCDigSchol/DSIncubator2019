@@ -31,6 +31,8 @@ The workshop will consist of four hands-on exercises:
 
 - [Slides](https://docs.google.com/presentation/d/1eJ1zH_xO93bDPL0626avvLgBLOXm8jpct9teFa7VgGU/edit?usp=sharing) for the session 
 - A [resources document](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/3_Collections/resources.md) includes select readings, tutorials, and example Omeka projects.
+- [Alternatives](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/August%202018/Archives%20and%20Exhibitions/docs/Alternative_DigitalExhibit_Systems.pdf) to Omeka
+      
 
 
 ### Rights

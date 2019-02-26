@@ -12,7 +12,7 @@ Based on the previous exercises, you should now have a pretty strong sense of wh
 
 To wrap up, pairs will share insights from their discussion with the larger group of all workshop participants.
 
-A [handout of these discussion questions](docs/exercise-4.pdf) [PDF] is also available.
+A [handout of these discussion questions](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/3_Collections/docs/exercise-3.pdf) [PDF] is also available.
 
 ## Rights
 

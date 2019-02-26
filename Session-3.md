@@ -29,7 +29,7 @@ The workshop will consist of four hands-on exercises:
 
 ### Resources
 
-A [resources document](resources.md) includes select readings, tutorials, and example Omeka projects.
+A [resources document](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/3_Collections/resources.md) includes select readings, tutorials, and example Omeka projects.
 
 
 ### Rights

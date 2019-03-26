@@ -17,7 +17,7 @@ In this exercise you will select one project listed below and answer several que
 - MIT Senseable City Lab. [Treepedia](http://senseable.mit.edu/treepedia/cities/boston) 
 - Google News Lab and Truth & Beauty,[The Rhythm of Food](http://rhythm-of-food.net/)
 
-## Questions to Consider
+### Questions to Consider
 
 - What is the story that the author(s) appear to be trying to convey? 
 - Is the design effective for the story?

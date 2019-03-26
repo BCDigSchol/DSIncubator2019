@@ -40,6 +40,6 @@ Consider your own research or pedagogical needs. What type of question(s) or arg
 - Would you create your own data or require an existing dataset?
 - What kind of resources might you need access to?
 
-### Discuss individual project plans (in pairs and group)
+# Discuss individual project plans (in pairs and group)
 [Revised Project Proposal](https://docs.google.com/document/d/1ZPn5Imlo_Q7nqHoQovid_zVovF5bbi5n1qcU9GgP39Y/edit) - due April 10
 

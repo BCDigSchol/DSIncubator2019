@@ -8,7 +8,7 @@ permalink: /Session 5/
 
 
 # Data visualization
-[View or download slides](/DSIncubator2019/Data Visualization.pptx)
+[View or download slides](https://docs.google.com/presentation/d/1NYSMpfr50f7f69EomiUDlBcFOrogYgO5pexAr60dRsQ/edit?usp=sharing)
 
 
 # Exercise 1

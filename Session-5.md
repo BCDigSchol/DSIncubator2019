@@ -40,10 +40,11 @@ In this exercise you will select one project listed below and answer several que
 
 Consider your own research or pedagogical needs. What type of question(s) or arguments can you make with a spatial visualization? Reflect on these and other questions while drawing or sketching out a dataset, map, or other visualization.
 
-- What type of map would help you answer this question?
-- How could you use spatial visualization in a class setting?
-- What type of data source(s) would you need? 
+
+- What type of data source(s) would you need?
 - Would you create your own data or require an existing dataset?
 - What kind of resources might you need access to?
+- What type of visualization would help you answer this question?
+- What kind of visualization tools might you need?
 
 

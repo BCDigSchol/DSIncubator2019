@@ -22,7 +22,7 @@ In this exercise you will select one project listed below and answer several que
 - What is the story that the author(s) appear to be trying to convey? 
 - Is the design effective for the story?
 - What is the underlying data source?
-- What goal or research question does this map addresses? Is it clear?
+- What goal or research question does this visualization addresses? Is it clear?
 - Is it interactive, if so, how?
 - How was the visualization created? Do you know which software, tools, methods, etc. were used?
 - Is it user-friendly? If not, why and what would you improve?

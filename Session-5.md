@@ -6,6 +6,12 @@ permalink: /Session 5/
 
 #### Session 5 (3/27/2019): Data Visualization
 
+### Agenda 
+
+* Introduction to Data visualization
+* Discuss individual project plans (in pairs and group)
+[Revised Project Proposal](https://docs.google.com/document/d/1ZPn5Imlo_Q7nqHoQovid_zVovF5bbi5n1qcU9GgP39Y/edit) - due April 10
+
 
 # Data visualization
 [View or download slides](https://docs.google.com/presentation/d/1NYSMpfr50f7f69EomiUDlBcFOrogYgO5pexAr60dRsQ/edit?usp=sharing)
@@ -13,9 +19,9 @@ permalink: /Session 5/
 
 # Exercise 1
 In this exercise you will select one project listed below and answer several questions.
-- Pedro Cruz, John Wihbey, Avni Ghael, and Felipe Shibuya.[A tree for U.S. immigration](https://web.northeastern.edu/naturalizing-immigration-dataviz/)
+- Pedro Cruz, John Wihbey, Avni Ghael, and Felipe Shibuya. [A tree for U.S. immigration](https://web.northeastern.edu/naturalizing-immigration-dataviz/)
 - MIT Senseable City Lab. [Treepedia](http://senseable.mit.edu/treepedia/cities/boston) 
-- Google News Lab and Truth & Beauty,[The Rhythm of Food](http://rhythm-of-food.net/)
+- Google News Lab and Truth & Beauty. [The Rhythm of Food](http://rhythm-of-food.net/)
 
 ### Questions to Consider
 
@@ -40,6 +46,4 @@ Consider your own research or pedagogical needs. What type of question(s) or arg
 - Would you create your own data or require an existing dataset?
 - What kind of resources might you need access to?
 
-# Discuss individual project plans (in pairs and group)
-[Revised Project Proposal](https://docs.google.com/document/d/1ZPn5Imlo_Q7nqHoQovid_zVovF5bbi5n1qcU9GgP39Y/edit) - due April 10
 

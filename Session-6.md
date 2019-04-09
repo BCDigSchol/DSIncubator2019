@@ -18,9 +18,9 @@ Textual Analysis and Voyant Tools
 
 #### Exercise Material
 
-1. [King Lear.Folio](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/King%20Lear.%20Folio.txt)
-2. [King Lear.Quarto](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/King%20Lear.%20Quarto.txt)
-3. [Ovid in the Third Reich](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/Ovid%20in%20the%20Third%20Reich.%20plain%20text.txt)
+ [King Lear.Folio](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/King%20Lear.%20Folio.txt)
+ [King Lear.Quarto](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/King%20Lear.%20Quarto.txt)
+ [Ovid in the Third Reich](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/Ovid%20in%20the%20Third%20Reich.%20plain%20text.txt)
 
 
 

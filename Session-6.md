@@ -16,7 +16,9 @@ permalink: /Session 6/
 * [View or download slides](https://docs.google.com/presentation/d/166Uv7fBrdVI8yQJAwhI10ODPq7WhfMSVSoEQlTEK0ZQ/edit#slide=id.p)
 
 
-#### Download the Exercise Material
+#### Exercise Material
+[Download the exercise materials] (https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/Text%20Analysis%20Exercise.zip?raw=true)
+
 
  - [King Lear.Folio](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/King%20Lear.%20Folio.txt)
  - [King Lear.Quarto](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/King%20Lear.%20Quarto.txt)

@@ -17,7 +17,7 @@ permalink: /Session 6/
 
 
 #### Exercise Material
-[Download the exercise materials] (https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/Text%20Analysis%20Exercise.zip?raw=true)
+[Download the exercise materials](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/Text%20Analysis%20Exercise.zip?raw=true)
 
 
  - [King Lear.Folio](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/King%20Lear.%20Folio.txt)

@@ -18,7 +18,7 @@ permalink: /Session 6/
 
 #### Download the Exercise Material
 
- - [download King Lear.Folio](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/King%20Lear.%20Folio.txt?raw=true)
+ - [King Lear.Folio](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/King%20Lear.%20Folio.txt?raw=true)
  - [King Lear.Quarto](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/King%20Lear.%20Quarto.txt?raw=true)
  - [Ovid in the Third Reich](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/Ovid%20in%20the%20Third%20Reich.%20plain%20text.txt?raw=true)
 

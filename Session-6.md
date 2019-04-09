@@ -8,6 +8,7 @@ permalink: /Session 6/
 
 ## Agenda
 Textual Analysis and Voyant Tools
+
 [Revised Project Proposal](https://docs.google.com/document/d/1ZPn5Imlo_Q7nqHoQovid_zVovF5bbi5n1qcU9GgP39Y/edit) due
 
 

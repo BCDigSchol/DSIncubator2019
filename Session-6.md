@@ -6,17 +6,17 @@ permalink: /Session 6/
 
 #### Session 6 (4/10/2019): Textual Analysis & Editions
 
-#### Agenda
+### Agenda
 * Textual Analysis and Voyant Tools
 
 * [Revised Project Proposal](https://docs.google.com/document/d/1ZPn5Imlo_Q7nqHoQovid_zVovF5bbi5n1qcU9GgP39Y/edit) due
 
 
-#### Textual Analysis
+### Textual Analysis
 * [View or download slides](https://docs.google.com/presentation/d/166Uv7fBrdVI8yQJAwhI10ODPq7WhfMSVSoEQlTEK0ZQ/edit#slide=id.p)
 
 
-#### Exercise Material
+### Exercise Material
 [Download the exercise files](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/Text%20Analysis%20Exercise.zip?raw=true)
 
  - [King Lear.Folio](https://github.com/BCDigSchol/DSIncubator2019/blob/master/_materials/King%20Lear.%20Folio.txt)
